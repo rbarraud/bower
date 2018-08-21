@@ -1,3 +1,4 @@
+!lib/bin
 /node_modules
 /npm-debug.log
 
@@ -9,3 +10,6 @@
 /bower.json
 /component.json
 /bower_components
+/test/sample
+!/test/sample/bower.json
+/npm-shrinkwrap.json
